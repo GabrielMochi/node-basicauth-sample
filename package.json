@@ -1,0 +1,26 @@
+{
+  "name": "basicauth-sample",
+  "version": "1.0.0",
+  "description": "Sample of Basic Authentication implementation using Node.js and Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielMochi/node-basicauth-sample.git"
+  },
+  "keywords": [
+    "node",
+    "basicauth",
+    "basic",
+    "auth",
+    "express"
+  ],
+  "author": "Gabriel Mochi Ribeiro <gmochi56@icloud.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/GabrielMochi/node-basicauth-sample/issues"
+  },
+  "homepage": "https://github.com/GabrielMochi/node-basicauth-sample#readme"
+}
