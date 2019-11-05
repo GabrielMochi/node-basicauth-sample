@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/GabrielMochi/node-basicauth-sample/issues"
   },
-  "homepage": "https://github.com/GabrielMochi/node-basicauth-sample#readme"
+  "homepage": "https://github.com/GabrielMochi/node-basicauth-sample#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-basic-auth": "^1.2.0"
+  }
 }
